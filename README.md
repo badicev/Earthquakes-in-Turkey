@@ -3,13 +3,13 @@
 
 This repository contains data and analysis related to earthquakes in Turkey and the towns that are most at risk based on their population and the frequency of earthquakes in the region. The aim of this project is to provide insights into the risk of seismic events in different parts of Turkey and to identify the areas that are most vulnerable to earthquakes.
 
-##Data
+## Data
 The data used in this project comes from various sources, including:
 
 The United States Geological Survey (USGS) maintains a database of all earthquakes worldwide with a magnitude of 2.5 or higher since 1900, including those in Turkey.
 
 The Turkish Statistical Institute (TÜİK), which provides population data for each town in Turkey.
-##Analysis
+## Analysis
 The analysis in this project focuses on the following key aspects of earthquake risk in Turkey:
 
 * The frequency and magnitude of earthquakes in different regions of the country.
