@@ -6,7 +6,7 @@ This repository contains data and analysis related to earthquakes in Turkey and 
 ## Data
 The data used in this project comes from various sources, including:
 
-The United States Geological Survey (USGS) maintains a database of all earthquakes worldwide with a magnitude of 2.5 or higher since 1900, including those in Turkey.
+The United States Geological Survey (USGS) maintains a database of all earthquakes worldwide with a magnitude of 2.5 or higher since 1903, including those in Turkey.
 
 The Turkish Statistical Institute (TÜİK), which provides population data for each town in Turkey.
 ## Analysis
