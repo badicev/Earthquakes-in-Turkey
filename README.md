@@ -1,4 +1,4 @@
-# Earthquakes
+# Earthquakes in Turkey
  Earthquakes and Risky Towns in Turkey based on Population and Magnitude Frequency
 
 This repository contains data and analysis related to earthquakes in Turkey and the towns that are most at risk based on their population and the frequency of earthquakes in the region. The aim of this project is to provide insights into the risk of seismic events in different parts of Turkey and to identify the areas that are most vulnerable to earthquakes.
